@@ -25,7 +25,7 @@ pip install mitmproxy
 
 ### 安装证书
 
-访问http://mitm.it/，安装Windows证书
+访问http://mitm.it/	安装Windows证书
 
 ### 启动脚本
 
