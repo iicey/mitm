@@ -19,9 +19,9 @@ pip install mitmproxy
 
 ### 设置代理(127.0.0.1:8080)
 
-![1564572090441](C:\Users\Zhaoyang.Wei\AppData\Roaming\Typora\typora-user-images\1564572090441.png)
+![1564572090441](https://github.com/iicey/mitm/blob/master/img/1564572090441.png)
 
-![1564572149417](C:\Users\Zhaoyang.Wei\AppData\Roaming\Typora\typora-user-images\1564572149417.png)
+![1564572149417](https://github.com/iicey/mitm/blob/master/img/1564572149417.png)
 
 ### 安装证书
 
@@ -39,4 +39,4 @@ mitmdump -s script.py
 
 点开PC微信里微信公众号的列表页，向下滑动即可
 
-![1564572879319](C:\Users\Zhaoyang.Wei\AppData\Roaming\Typora\typora-user-images\1564572879319.png)
+![1564572879319](https://github.com/iicey/mitm/blob/master/img/1564572879319.png)
